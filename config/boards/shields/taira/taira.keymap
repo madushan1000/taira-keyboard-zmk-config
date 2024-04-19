@@ -35,7 +35,7 @@
 &kp EQUAL   &kp N1    &kp N2     &kp N3     &kp N4    &kp N5                                                                                 &kp N6  &kp N7    &kp N8     &kp N9    &kp N0       &kp MINUS
 &kp TAB     &kp Q     &kp W      &kp E      &kp R     &kp T                                                                                  &kp Y   &kp U     &kp I      &kp O     &kp P        &kp BSLH
 &kp GRAVE   &kp A     &kp S      &kp D      &kp F     &kp G                                                                                  &kp H   &kp J     &kp K      &kp L     &kp SEMI     &kp SQT
-&kp LSHFT   &kp Z     &kp X      &kp C      &kp V     &kp B              &lt LALT LBKT   &kp LMETA    &kp RMETA        &lt RALT RBKT         &kp N   &kp M     &kp COMMA  &kp DOT   &kp SLASH    &kp RSHFT
+&kp LSHFT   &kp Z     &kp X      &kp C      &kp V     &kp B              &mt LALT LBKT   &kp LMETA      &kp RMETA        &mt RALT RBKT         &kp N   &kp M     &kp COMMA  &kp DOT   &kp SLASH    &kp RSHFT
 &mo HYPER   &kp PG_DN  &kp PG_UP   &kp DEL                       &kp LCTRL &kp SPACE   &lt LOWER ESC    &lt RAISE ENTER  &kp BSPC &kp RCTRL                      &kp LEFT   &kp DOWN  &kp UP       &kp RIGHT
                         >;
                 };
